@@ -1,5 +1,5 @@
 User-agent: *
-Sitemap: https://mahdix.github.io/solidinbox-blog/sitemap.xml
+Sitemap: https://blog.solidinbox.com/sitemap.xml
 Disallow: /ghost/
 Disallow: /p/
 Disallow: /email/
